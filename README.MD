@@ -22,6 +22,8 @@ The paper outlines several agentic control patterns including:
 
 These patterns emphasize reducing hallucinations, lowering compute costs, and improving response speed by making agents responsible for selective control and execution.
 
+![Rag](agenticrag.png) 
+
 ## What is A2AJava?
 
 A2AJava is a Java framework for defining and invoking structured, deterministic agents. It is built on the Action-to-Action (A2A) protocol, which enables agents to declare actions, exchange JSON-compatible inputs and outputs, and collaborate using semantic memory and retrieval.
