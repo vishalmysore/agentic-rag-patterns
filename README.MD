@@ -26,7 +26,7 @@ These patterns emphasize reducing hallucinations, lowering compute costs, and im
 
 ## What is A2AJava?
 
-A2AJava is a Java framework for defining and invoking structured, deterministic agents. It is built on the Action-to-Action (A2A) protocol, which enables agents to declare actions, exchange JSON-compatible inputs and outputs, and collaborate using semantic memory and retrieval.
+[A2AJava](https://github.com/vishalmysore/a2ajava) is a Java framework for defining and invoking structured, deterministic agents. It is built on the Action-to-Action (A2A) protocol, which enables agents to declare actions, exchange JSON-compatible inputs and outputs, and collaborate using semantic memory and retrieval.
 
 ### Key Features
 
